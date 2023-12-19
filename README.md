@@ -36,7 +36,7 @@
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/rifkymp/SIAKAD
+git clone https://github.com/rifkymp/SIAKAD.git
 cd Sistem-Informasi-Akademik-Sekolah-Laravel
 composer install
 cp .env.example .env
