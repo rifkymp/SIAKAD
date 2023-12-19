@@ -8,7 +8,7 @@
 
 ## Note 🙏
 
- **Source Code ini bukan asli milik saya, Namun saya menggunakan Source Code milik https://github.com/adhiariyadi/Ticket-Laravel
+ **Source Code ini bukan asli milik saya, Namun saya menggunakan Source Code milik (https://github.com/adhiariyadi/Sistem-Informasi-Akademik-Sekolah-Laravel)
 	
 ## Fitur apa saja yang tersedia di Ticket?
 
