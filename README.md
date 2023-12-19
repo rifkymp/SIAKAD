@@ -2,7 +2,7 @@
 
  **Github ini digunakan untuk belajar demi memenuhi tugas akhir mata kuliah Enterprise Resource Planning. 
  
-## Apa itu Ticket?
+## Apa itu SIAKAD?
 
  **Sistem Informasi Akademik (SIAKAD) adalah sistem informasi yang digunakan untuk mengelola data akademik di sebuah lembaga pendidikan, baik sekolah maupun perguruan tinggi. SIA berbasis web adalah SIA yang diakses melalui internet..**
 
@@ -26,8 +26,8 @@
 
 **Admin Default Account**
 
--   username: admin
--   Password: admin123
+-   username: admin@gmail.com
+-   Password: 12345678
 
 ---
 
@@ -36,8 +36,8 @@
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/fadiiyah/MyTicket.git
-cd MyTicket
+git clone https://github.com/rifkymp/SIAKAD
+cd Sistem-Informasi-Akademik-Sekolah-Laravel
 composer install
 cp .env.example .env
 ```
@@ -45,8 +45,10 @@ cp .env.example .env
 2. **Buka `.env` lalu ubah baris berikut sesuai dengan databasemu yang ingin dipakai**
 
 ```bash
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=laravel
+DB_DATABASE=laravel9
 DB_USERNAME=root
 DB_PASSWORD=
 ```
