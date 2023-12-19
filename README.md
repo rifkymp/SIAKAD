@@ -14,10 +14,12 @@
 
 -   Autentikasi Admin
 -   User & CRUD
--   Rute & CRUD
--   Transportasi & CRUD
--   Category & CRUD
--   Pemesanan Ticket
+-   Jadwal & CRUD
+-   Kelas & CRUD
+-   Mata Pelajaran & CRUD
+-   Guru & CRUD
+-   Siswa & CRUD
+-   Rapot
 -   Dan lain-lain
 
 
